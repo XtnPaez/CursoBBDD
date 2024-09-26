@@ -43,7 +43,7 @@ ping google.com.mx
 Y esto lo realiza sin que tengas que acceder a la carpeta C:WindowsWinSxSwow64_microsoft-windows-ping-utilities_blablabla.
 y esto mismo lo vamos a hacer nosotros para no tener que acceder a la carpeta c:\src\sqlite-tools-win64-x86-3460100 todo el tiempo
 
-## Agregarla la variable de entorno al PATH
+## Agregar la variable de entorno al PATH
 
 Para agregar una variable de entorno es bien facil.
   
