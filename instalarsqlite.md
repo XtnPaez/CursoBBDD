@@ -2,7 +2,9 @@
 
 # ¿Cómo instalar SQLITE en windows?
 
+
 ## ¿Qué es SQLite?
+
 
 Lo que nos dice la documentación es:
 
@@ -10,11 +12,9 @@ Lo que nos dice la documentación es:
 
 Lo que se traduce como: 
 
-***Si quieres una base de datos buena, bonita y barata (recursos), está es tu mejor opción.***
+***Si quieres una base de datos buena, bonita y barata (recursos), está es tu mejor opción***
 
-### ¡Manos a la obra!.
-
-## Peeeeeroooo ¿Cómo la instalo?. 
+## Ok, pero ¿Cómo la instalo?. 
 
 Para instalar SQLite en Windows lo único que tienes que hacer es ir a la página oficial la cual es: [Página oficial](https://www.sqlite.org/download.html) y seleccionar la opción
 
@@ -29,29 +29,25 @@ Te debe de quedar algo mas o menos así:
 
 Dentro de esa carpeta debe estar tus tres archivos .exe, si lo deseas puedes cambiarle el nombre a la carpeta y que solo diga SQLite. 
 
+
 ## PATH de Windows. 
 
 ### ¿Para que necesito hacer eso?
 
 Te lo voy a explicar
 
-Para que puedas ejecutar un comando en el cmd de Windows o desde cualquier terminal, debes acceder a la carpeta, pero para poder ahorrarte el escribir la ruta de las carpetas todo el tiempo se creo el PATH, lo que nos permite es agregar rutas de directorios para que el cmd los reconozca, veamos un pequeño ejemplo:
+Para que puedas ejecutar un comando en el cmd de Windows o desde cualquier terminal, debes acceder a la carpeta, pero para poder ahorrarte el escribir la ruta de las carpetas todo el tiempo se crea el PATH
 
-Si quisiéramos hacer ping a una página como por ejemplo google.com.mx ejecutamos el comando ping de la siguiente manera.
-ping google.com.mx
-
-Y esto lo realiza sin que tengas que acceder a la carpeta C:WindowsWinSxSwow64_microsoft-windows-ping-utilities_blablabla.
-y esto mismo lo vamos a hacer nosotros para no tener que acceder a la carpeta c:\src\sqlite-tools-win64-x86-3460100 todo el tiempo
 
 ## Agregar la variable de entorno al PATH
 
 Para agregar una variable de entorno es bien facil.
   
-1. Presionar (Windows + e) para abrir nuestro explorador de archivos.
+1. Presionar (Windows + e) para abrir nuestro explorador de archivos
 
 2. Clic DERECHO en "Este equipó" y seleccionar propiedades
 
-3. Seleccionar Configuración avanzada del sistema (Se encuentra en la parte superior izquierda, es normalmente la ultima opción).
+3. Seleccionar Configuración avanzada del sistema 
 
 4. Dar clic en Variables de entorno (Es la ultima opción de Opciones avanzadas)
 
@@ -63,9 +59,9 @@ Para agregar una variable de entorno es bien facil.
 
 Listo!!, ya puedes ejecutar comandos de sqlite desde el cmd.
 
-## ¿No me crees?
+## A veeeeeer
 
-Si quiere comprobar que funciona lo que te acabo de enseñar, ejecuta el comando **sqlite3** desde la línea de comandos.
+Ejecuta el comando **sqlite3** desde la línea de comandos.
 
 ~~~
 SQLite version 3.28.0 [FECHA] [HORA]
@@ -74,7 +70,8 @@ Connected to a transient in-memory database.
 Use ".open FILENAME" to reopen on a persistent database.
 ~~~
 
-## ¿Cómo crear una base de datos?
+
+## ¿Y cómo crear una base de datos?
 
 Para crear una base de datos accede a la carpeta donde la desees crear y tienes que escribir el siguiente comando
 
