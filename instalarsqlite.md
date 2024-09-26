@@ -2,7 +2,6 @@
 
 # ¿Cómo instalar SQLITE en windows?
 
-
 ## ¿Qué es SQLite?
 
 Lo que nos dice la documentación es:
@@ -13,10 +12,9 @@ Lo que se traduce como:
 
 ***Si quieres una base de datos buena, bonita y barata (recursos), está es tu mejor opción.***
 
-#¡Manos a la obra!.
+### ¡Manos a la obra!.
 
 ## Peeeeeroooo ¿Cómo la instalo?. 
-
 
 Para instalar SQLite en Windows lo único que tienes que hacer es ir a la página oficial la cual es: [Página oficial](https://www.sqlite.org/download.html) y seleccionar la opción
 
@@ -30,7 +28,6 @@ Te debe de quedar algo mas o menos así:
 >C:\src\sqlite-tools-win32-x86-3330000
 
 Dentro de esa carpeta debe estar tus tres archivos .exe, si lo deseas puedes cambiarle el nombre a la carpeta y que solo diga SQLite. 
-
 
 ## PATH de Windows. 
 
@@ -46,7 +43,6 @@ ping google.com.mx
 
 Y esto lo realiza sin que tengas que acceder a la carpeta C:WindowsWinSxSwow64_microsoft-windows-ping-utilities_blablabla.
 y esto mismo lo vamos a hacer nosotros para no tener que acceder a la carpeta c:\src\sqlite-tools-win32-x86-3330000 todo el tiempo
-
 
 ## Agregarla la variable de entorno al PATH
 
@@ -66,9 +62,7 @@ Para agregar una variable de entorno es bien facil.
 
 7. Agregamos la ruta de nuestra carpeta que debería de ser C:\src\sqlite-tools-win32-x86-3330000 y dar clic en aceptar
 
-Listo!!, ya puedes ejecutar comandos de sqlite
- desde el cmd.
-
+Listo!!, ya puedes ejecutar comandos de sqlite desde el cmd.
 
 ## ¿No me crees?
 
@@ -80,8 +74,6 @@ Enter ".help" for usage hints.
 Connected to a transient in-memory database.
 Use ".open FILENAME" to reopen on a persistent database.
 ~~~
-
-
 
 ## ¿Cómo crear una base de datos?
 
@@ -104,5 +96,4 @@ sqlite3 .databases
 Después de ejecutar ese comando deberá de crearse el archivo MiBaseDeDatos.db
 
 ## Bien hecho!, ya tienes tu base de datos.
-
 
