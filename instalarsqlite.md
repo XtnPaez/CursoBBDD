@@ -18,7 +18,7 @@ Lo que se traduce como:
 
 Para instalar SQLite en Windows lo único que tienes que hacer es ir a la página oficial la cual es: [Página oficial](https://www.sqlite.org/download.html) y seleccionar la opción
 
-> sqlite-tools-win32-x86-3330000.zip
+> sqlite-tools-win64-x86-3330000.zip
 la cual va a contener herramientas para la línea de comandos, el archivo sqlite3.exe, sqldiff.exe y sqlite3_analizer.exe
 
 Una vez descargada lo que debes de hacer es descomprimirla, se recomienda crear una carpeta en tu disco local C (o el que tengas disponible) y crear una carpeta con el nombre src.
