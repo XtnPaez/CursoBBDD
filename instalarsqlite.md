@@ -38,11 +38,10 @@ Te lo voy a explicar
 Para que puedas ejecutar un comando en el cmd de Windows o desde cualquier terminal, debes acceder a la carpeta, pero para poder ahorrarte el escribir la ruta de las carpetas todo el tiempo se creo el PATH, lo que nos permite es agregar rutas de directorios para que el cmd los reconozca, veamos un pequeño ejemplo:
 
 Si quisiéramos hacer ping a una página como por ejemplo google.com.mx ejecutamos el comando ping de la siguiente manera.
-
 ping google.com.mx
 
 Y esto lo realiza sin que tengas que acceder a la carpeta C:WindowsWinSxSwow64_microsoft-windows-ping-utilities_blablabla.
-y esto mismo lo vamos a hacer nosotros para no tener que acceder a la carpeta c:\src\sqlite-tools-win32-x86-3330000 todo el tiempo
+y esto mismo lo vamos a hacer nosotros para no tener que acceder a la carpeta c:\src\sqlite-tools-win64-x86-3460100 todo el tiempo
 
 ## Agregarla la variable de entorno al PATH
 
@@ -60,7 +59,7 @@ Para agregar una variable de entorno es bien facil.
 
 6. Dar clic en Nuevo
 
-7. Agregamos la ruta de nuestra carpeta que debería de ser C:\src\sqlite-tools-win32-x86-3330000 y dar clic en aceptar
+7. Agregamos la ruta de nuestra carpeta que debería de ser C:\src\sqlite-tools-win64-x86-3460100 y dar clic en aceptar
 
 Listo!!, ya puedes ejecutar comandos de sqlite desde el cmd.
 
