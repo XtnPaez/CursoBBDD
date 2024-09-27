@@ -23,6 +23,9 @@ Arrastran el archivo **Prueba_curso_Sql_Reducida.db** que descargaron y listo, t
 <img src="imagenes/basecargada.png" alt="drawing" style="width:600px;"/>
 
 
+### Tenemos una Wiki
+[Pueden verla aquí](https://github.com/SIEMPROpaez/CursoBBDD/wiki/Curso-de-Introducci%C3%B3n-a-las-Bases-de-Datos)
+
 ### Correo de contacto
 Si tienen dudas, consultas y/o sugerencias pueden escribirme a 
 
