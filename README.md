@@ -1,4 +1,4 @@
-# Taller de Base de Datos
+# Curso de Introducción a las Bases de Datos
 En este repo vamos a tener todo lo relacionado con el curso, desde la presentación general, hasta la base SQLite que usaremos durante el taller. Vamos a por ello!
 
 
