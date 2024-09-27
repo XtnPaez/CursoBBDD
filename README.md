@@ -18,7 +18,7 @@ Van a ver lo siguiente
 
 <img src="imagenes/dbbrowserforsqlite.png" alt="drawing" style="width:600px;"/>
 
-Y desde **New Database** van a poder cargar la Base de prueba.
+Arrastran el archivo que descargaron de la Base de prueba, y listo! Todo andando!
 
 ### Correo de contacto
 cpaez@siempro.gob.ar
