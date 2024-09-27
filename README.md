@@ -8,7 +8,7 @@ La presentación del curso es un PPT que pueden descargar del repo. Lo iremos re
 
 
 ### Base de prueba para el curso
-A lo largo del curso usaremos una base para realizar los ejercicios. Pueden descargarla desde [AQUÍ](base/)
+A lo largo del curso usaremos una base para realizar los ejercicios. Pueden descargarla desde [AQUÍ](https://github.com/SIEMPROpaez/tallerBBDD/blob/e6755ff8f47f1aa6b4103a94aa9665a490580bfc/base/Prueba_curso_Sql_Reducida.db)
 
 
 ### Manager del SQLite
