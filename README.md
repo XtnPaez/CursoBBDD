@@ -12,7 +12,7 @@ A lo largo del curso usaremos una base de prueba para realizar los ejercicios. P
 
 
 ### Manager del SQLite
-El manager para SQLite lo podrán descargar desde [AQUÍ](https://download.sqlitebrowser.org/DB.Browser.for.SQLite-v3.13.0-win64.zip). Pueden descomprimirlo en la carpeta Descargas de sus máquinas o en la carpeta que gusten. Luego entran a la carpetaq extraída, hacen doble click en **DB Browser for SQLite.exe** y listo, ya tienen el manager funcionando! 
+El manager para SQLite lo podrán descargar desde [AQUÍ](https://download.sqlitebrowser.org/DB.Browser.for.SQLite-v3.13.0-win64.zip). Pueden descomprimirlo en la carpeta Descargas de sus máquinas o en la carpeta que gusten. Luego entran a la carpeta extraída, hacen doble click en **DB Browser for SQLite.exe** y listo, ya tienen el manager funcionando! 
 
 Van a ver lo siguiente
 
