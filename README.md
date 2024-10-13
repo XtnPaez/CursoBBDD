@@ -26,6 +26,10 @@ Arrastran el archivo **Prueba_curso_Sql_Reducida.db** que descargaron y listo, t
 ### Tenemos una Wiki
 Pueden consultarla [AQUÍ](https://github.com/SIEMPROpaez/CursoBBDD/wiki)
 
+### Tenemos soundtrack 
+
+[![Mira el vídeo](https://img.youtube.com/vi/i_cVJgIz_Cs/0.jpg)](https://www.youtube.com/watch?v=i_cVJgIz_Cs)
+
 
 ### Correo de contacto
 Si tienen dudas, consultas y/o sugerencias pueden escribirme a 
