@@ -28,7 +28,7 @@ Pueden consultarla [AQUÍ](https://github.com/SIEMPROpaez/CursoBBDD/wiki)
 
 ### Tenemos soundtrack
 
-[![Alt text](https://img.youtube.com/vi/i_cVJgIz_Cs/0.jpg){:target="_blank"}](https://www.youtube.com/watch?v=i_cVJgIz_Cs)
+[![Alt text](https://img.youtube.com/vi/i_cVJgIz_Cs/0.jpg)](https://www.youtube.com/watch?v=i_cVJgIz_Cs)
 
 
 ### Correo de contacto
